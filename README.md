@@ -1,6 +1,6 @@
 # Simon-Says-Game
-To know the game and its rules: https://www.youtube.com/watch?v=EWJ5uYwQJGU <br><br>
 Visit and play game:<b> https://kartikkk-07.github.io/Simon-Says-Game/ </b><br><br>
+To know the game and its rules: https://www.youtube.com/watch?v=EWJ5uYwQJGU <br><br>
 The Simon Says game is a memory game where the player repeats a sequence of colors that are randomly selected and displayed on four colored buttons<br>
 <ul>
   <li>Gameplay: The device lights up the buttons in a random order, and the player must press the buttons in the same order. The number of buttons increases as the game progresses. </li>
